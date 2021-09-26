@@ -1,3 +1,3 @@
 main change1.
 
-double conflict change.
+double conflict change2.
