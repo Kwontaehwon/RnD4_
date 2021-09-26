@@ -1,3 +1,1 @@
-main change.
-
-double conflict change2.
+branch conflict 1.
